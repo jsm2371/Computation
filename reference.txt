@@ -1,0 +1,11 @@
+
+참고 서적
+R. Johansson(201x). Numerical Python(2nd ed). APress Media
+
+
+최적화 서적 - 최적화의 수학적 논의법
+E.K.P. Chong(2013). An Introduction to Optimization(4th ed). Wiley
+최적화 서적 - 수치적 속성 관련 논의
+Heath(2002), Scirentific Computing: An introductory Survey(2nd ed). McGraw-Hill
+
+
