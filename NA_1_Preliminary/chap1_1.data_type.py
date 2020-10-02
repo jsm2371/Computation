@@ -30,7 +30,7 @@ data_info(com64_x,"Type = complex64")
 
 ## 부가설명 : 타입+숫자가 붙는데, 이 때의 숫자가 데이터에 할당되는 크기 bits.
 
-
+ 
 ########### 2. 기본 제공형 #############
 # int=int32
 int_x = np.empty(1, dtype=np.int)  
